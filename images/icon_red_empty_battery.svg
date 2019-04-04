@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30.202" height="61.775" viewBox="0 0 30.202 61.775">
+  <g id="icon_red_empty_battery" transform="translate(-7143.521 2915.775)">
+    <g id="ic_battery_20_24px" transform="translate(7148.953 -2897.979)">
+      <path id="Path_31" data-name="Path 31" d="M7,17v7.153a2.6,2.6,0,0,0,2.592,2.592H23.878a2.608,2.608,0,0,0,2.612-2.592V17Z" transform="translate(-7 12.235)" fill="#e55b5b"/>
+    </g>
+    <g id="Group_243" data-name="Group 243" transform="translate(2)">
+      <path id="Path_32" data-name="Path 32" d="M26.49,8.49A2.6,2.6,0,0,0,23.9,5.9H20.643V2h-7.8V5.9H9.592A2.6,2.6,0,0,0,7,8.49V31.235H26.49Z" transform="translate(7139.953 -2899.979)" fill="#e55b5b"/>
+      <g id="ic_battery_charging_20_24px" transform="translate(7141.521 -2915.775)">
+        <path id="Path_29" data-name="Path 29" d="M19.081,25.627V17H7V27.554a3.942,3.942,0,0,0,4.017,3.825H33.155A3.949,3.949,0,0,0,37.2,27.554V17H23.913Z" transform="translate(-7 30.396)" fill="#fff"/>
+        <path id="Path_30" data-name="Path 30" d="M33.185,8.32H28.141V2H16.061V8.32H11.017A4.131,4.131,0,0,0,7,12.522V49.4H19.081V41.5H13.04L25.121,17.8V35.177h6.04L23.913,49.4H37.2V12.522A4.131,4.131,0,0,0,33.185,8.32Z" transform="translate(-7 -2)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

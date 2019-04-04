@@ -1,0 +1,36 @@
+<header class="row">
+  <div class="col-md-2">
+    <div class="hamburger-btn">
+      <button class="btn" ng-click="isOpen = !isOpen">
+        <i class="ft-icon ft-hamburger"></i>
+      </button>
+    </div>
+  </div>
+  <div class="col-md-3"></div>
+  <div class="col-md-3"></div>
+  <div class="col-md-4"></div>
+</header>
+
+<nav ng-class="{'opened': isOpen === true}">
+  <ul class="top-list">
+    <li>
+      <a href="#">
+        <i class="ft-icon ft-compose"></i>
+        <span>Compose</span>
+      </a>
+    </li>
+  </ul>
+
+  <ul class="middle-list">
+    <li ng-repeat="menuItem in menuItems">
+      <a href="#">
+        <i class="ft-icon" ng-class="menuItem.icon"></i>
+        <span>{{ menuItem.text }}</span>
+      </a>
+    </li>
+  </ul>
+
+  <ul class="bottom-list">
+    <li>Last Synced: 15 Mar 20:30</li>
+  </ul>
+</nav>

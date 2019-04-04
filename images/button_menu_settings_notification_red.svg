@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35.454" height="40.093" viewBox="0 0 35.454 40.093">
+  <g id="button_menu_settings_notification_red" transform="translate(-7251 3028.027)">
+    <g id="Group_184" data-name="Group 184" transform="translate(7251 -3023.389)">
+      <g id="ic_account_circle_24px" transform="translate(0 0)">
+        <path id="ic_account_circle_24px-2" data-name="ic_account_circle_24px" d="M19.727,2A17.727,17.727,0,1,0,37.454,19.727,17.733,17.733,0,0,0,19.727,2Zm0,30.49A12.764,12.764,0,0,1,9.091,26.782c.053-3.528,7.091-5.46,10.636-5.46,3.528,0,10.583,1.932,10.636,5.46A12.764,12.764,0,0,1,19.727,32.49Z" transform="translate(-2 -2)" fill="#fff"/>
+      </g>
+      <path id="ic_settings_24px" d="M10.472,6.7a4.756,4.756,0,0,0,.043-.6,4.756,4.756,0,0,0-.043-.6L11.76,4.5a.308.308,0,0,0,.073-.391L10.613,2a.307.307,0,0,0-.372-.134l-1.52.61a4.459,4.459,0,0,0-1.031-.6L7.458.256A.3.3,0,0,0,7.158,0H4.717a.3.3,0,0,0-.3.256L4.186,1.874a4.689,4.689,0,0,0-1.031.6l-1.52-.61A.3.3,0,0,0,1.263,2L.042,4.107A.3.3,0,0,0,.116,4.5L1.4,5.5a4.84,4.84,0,0,0-.043.6,4.84,4.84,0,0,0,.043.6L.116,7.708A.308.308,0,0,0,.042,8.1L1.263,10.21a.307.307,0,0,0,.372.134l1.52-.61a4.459,4.459,0,0,0,1.031.6l.232,1.617a.3.3,0,0,0,.3.256H7.159a.3.3,0,0,0,.3-.256l.232-1.617a4.689,4.689,0,0,0,1.031-.6l1.52.61a.3.3,0,0,0,.372-.134L11.833,8.1a.308.308,0,0,0-.073-.391ZM5.938,8.239A2.136,2.136,0,1,1,8.074,6.1,2.138,2.138,0,0,1,5.938,8.239Z" transform="matrix(0.875, 0.485, -0.485, 0.875, 15.503, 2.508)" fill="#e55b5b"/>
+    </g>
+    <g id="Group_236" data-name="Group 236" transform="translate(7273.454 -3028.027)">
+      <g id="Ellipse_92" data-name="Ellipse 92" transform="translate(0 0)" fill="#e55b5b" stroke="#fff" stroke-width="1">
+        <ellipse cx="6.068" cy="6.068" rx="6.068" ry="6.068" stroke="none"/>
+        <ellipse cx="6.068" cy="6.068" rx="5.568" ry="5.568" fill="none"/>
+      </g>
+      <text id="_" data-name="!" transform="translate(4.215 10.211)" fill="#fff" font-size="10" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">!</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+{
+  "name": "falcontext-web-client",
+  "version": "0.0.1",
+  "description": "falcontext-web-client",
+  "main": "index.js",
+  "scripts": {
+    "start": "ws --spa index.html",
+    "build:css": "sass app.style.scss app.style.css"
+  },
+  "author": "ionutpetre.ro@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.7.8",
+    "angular-translate": "^2.18.1",
+    "bootstrap": "^4.3.1",
+    "font-awesome": "^4.7.0"
+  },
+  "devDependencies": {
+    "local-web-server": "^2.6.1",
+    "sass": "^1.17.3"
+  }
+}
