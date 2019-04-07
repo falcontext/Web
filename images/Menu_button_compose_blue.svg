@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="31.13" height="31.13" viewBox="0 0 31.13 31.13">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 31.13 31.13">
   <g id="Menu_button_compose_blue" transform="translate(-75.347 -38.986)">
-    <path id="ic_add_to_photos_24px" d="M34.586,2H11.238A3.9,3.9,0,0,0,7.347,5.891V29.239a3.9,3.9,0,0,0,3.891,3.891H34.586a3.9,3.9,0,0,0,3.891-3.891V5.891A3.9,3.9,0,0,0,34.586,2ZM32.64,19.511H24.858v7.782H20.966V19.511H13.184V15.619h7.782V7.837h3.891v7.782H32.64Z" transform="translate(68 36.986)" fill="#ff7f00"/>
+    <path id="ic_add_to_photos_24px" d="M34.586,2H11.238A3.9,3.9,0,0,0,7.347,5.891V29.239a3.9,3.9,0,0,0,3.891,3.891H34.586a3.9,3.9,0,0,0,3.891-3.891V5.891A3.9,3.9,0,0,0,34.586,2ZM32.64,19.511H24.858v7.782H20.966V19.511H13.184V15.619h7.782V7.837h3.891v7.782H32.64Z" transform="translate(68 36.986)" fill="#000"/>
   </g>
 </svg>
